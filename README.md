@@ -18,7 +18,6 @@
 ```
 global-ip-ranges/
 ├─ README.md
-├─ RIR_URLS.txt
 ├─ .github/workflows/update.yml
 ├─ scripts/
 │  ├─ update_ranges.py    # 下载 + 解析 -> data/
